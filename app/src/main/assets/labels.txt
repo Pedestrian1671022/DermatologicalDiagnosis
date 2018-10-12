@@ -1,0 +1,11 @@
+acne
+brandy
+chloasma
+eczema
+flat_wart
+freckle
+leucoderma
+lupus_erythematosus
+melanosis
+normal
+psoriasis
